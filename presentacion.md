@@ -1,6 +1,4 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Manuel Ceferino Oribe.
 
-En mi tiempo libre me gusta...
-
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es PCLMULLQHQDQ
